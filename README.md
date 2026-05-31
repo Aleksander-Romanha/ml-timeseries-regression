@@ -28,8 +28,8 @@ The dataset (`mackeyglass.csv`) contains generated values from the Mackey-Glass 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/time-series-forecasting-elm.git
-   cd time-series-forecasting-elm
+   git clone https://github.com/Aleksander-Romanha/ml-timeseries-regression.git
+   cd ml-timeseries-regression
    ```
 
 2. Create a virtual environment and activate it:
@@ -46,7 +46,7 @@ The dataset (`mackeyglass.csv`) contains generated values from the Mackey-Glass 
 
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook efc1_linear_regression_elm.ipynb
+   jupyter notebook linear_regression_elm.ipynb
    ```
 
 ## 📈 Results
